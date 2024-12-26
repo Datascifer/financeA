@@ -19,25 +19,25 @@ This repository is a comprehensive guide to the use of Artificial Intelligence (
 - **Anomaly Detection**: Techniques like Isolation Forests and Autoencoders for identifying irregular patterns in transactions and market behavior.  
 
 **📂 Contents:**  
-A. **Introduction to Financial ML**  
+**A. Introduction to Financial ML**  
 - Overview of AI & ML in Finance  
 - Challenges of financial data
   
-B. **Modeling Techniques**  
+**B. Modeling Techniques**  
 - Regression and Classification Models  
 - Time-Series Analysis  
 - Clustering and Dimensionality Reduction
   
-C. **Practical Use Cases**  
+**C. Practical Use Cases**  
 - Algorithmic Trading  
 - Fraud Detection  
 - Risk Management
   
-D. **Code Notebooks**  
+**D. Code Notebooks**  
 - Jupyter notebooks with step-by-step implementations  
 - Datasets and results
   
-E. **Resources**  
+**E. Resources**  
 - Research papers, books, and blogs for further reading  
   
 **🤝 Contributing**  
