@@ -1,6 +1,5 @@
 # Customer Segmentation
-# This code performs time series analysis and stock price prediction for Apple Inc. using multiple models. It downloads historical stock data via yfinance, implements feature engineering with rolling statistics, and compares Linear Regression, Exponential Smoothing, and LSTM models. The analysis includes data visualization, model training, and performance evaluation using metrics like MAE and RMSE. The LSTM model incorporates sequence-based learning with dropout layers for robustness, while also handling data scaling and sequence preparation for deep learning.
-
+# This code performs customer segmentation analysis using multiple clustering algorithms. It loads customer data including age, income, and spending scores, then applies K-means, Hierarchical, and DBSCAN clustering methods. The analysis includes data visualization, optimal cluster determination through elbow and silhouette methods, and dimensionality reduction via PCA. The code compares clustering results across methods, visualizes cluster distributions, and provides comprehensive cluster characteristics through centroids and summary statistics.
 
 # Data Exploration and Analysis
 ## Load essential libraries
